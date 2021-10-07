@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Billchatch
 - 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently learning Qiskit
+- 🌱 I’m currently learning Cirq
 
 <!---
 Billchatch/Billchatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
